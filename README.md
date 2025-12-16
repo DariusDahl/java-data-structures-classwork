@@ -5,11 +5,12 @@ This repository contains a collection of projects from my data structures course
 ## Overview
 
 ### Purpose
-The goal of this repository is to demonstrate:
-- Hands-on implementation of core data structures.
-- Object-Oriented Programming (OOP) principles in Java.
+The goal of this repository is to demonstrate:  
+- Hands-on implementation of core data structures and algorithms.  
+- Object-Oriented Programming (OOP) principles in Java. 
 - Modular design using interfaces and classes.
-- Application of data structure operations to solve computational problems.
+- Application of recursive and iterative approaches to solve computational problems. 
+- File I/O operations for practical data processing tasks.
 
 ### Topics Covered
 - Stack (Array-based)
@@ -19,7 +20,8 @@ The goal of this repository is to demonstrate:
 - Array Bounded Queue
 - ArrayList vs LinkedList Benchmark
 - Sorting Algorithms
-- Other data structures as the coursework progresses. 
+- File Reading and Writing
+- Other data structures as the coursework progresses.  
 
 ## Current Projects
 
@@ -71,10 +73,19 @@ The goal of this repository is to demonstrate:
   - Implement Bubble Sort for ordering elements in ascending order.
   - Practice list manipulation techniques for generating and sorting data.
   - Efficiently merge multiple sorted lists using pointer-based traversal.
+ 
+### 8. [Generate Customer Emails](https://github.com/DariusDahl/data-structures-classwork-java/blob/main/reading-writing-files/)
+- **Overview**: A file I/O project that reads customer data from a file, processes it using a template, and generates personalized email files for each customer.  Demonstrates automated content generation and date manipulation.
+- **Learning Goals**: 
+  - Read and parse structured data from text files.
+  - Replace template placeholders with dynamic customer information.
+  - Write output to multiple files with automated naming conventions.
+  - Calculate expiry dates by manipulating date strings.
 
 ---
 
 This repository will grow as I continue to explore more data structures and their functionalities.
+
 
 
 

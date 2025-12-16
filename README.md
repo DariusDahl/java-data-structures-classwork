@@ -18,7 +18,8 @@ The goal of this repository is to demonstrate:
 - Simple Linked List
 - Array Bounded Queue
 - ArrayList vs LinkedList Benchmark
-- Other data structures as the coursework progresses.
+- Sorting Algorithms
+- Other data structures as the coursework progresses. 
 
 ## Current Projects
 
@@ -64,9 +65,17 @@ The goal of this repository is to demonstrate:
   - Implement exception handling for overflow and underflow conditions.
   - Explore dynamic memory management with circular arrays.
 
+### 7. [Sort and Merge ArrayLists](https://github.com/DariusDahl/data-structures-classwork-java/blob/main/sorting-algorithms/sort-and-merge-arraylists/)
+- **Overview**: A project that demonstrates sorting and merging multiple `ArrayLists` using the Bubble Sort algorithm. Three separate lists are sorted individually and then merged into a single sorted list.
+- **Learning Goals**: 
+  - Implement Bubble Sort for ordering elements in ascending order.
+  - Practice list manipulation techniques for generating and sorting data.
+  - Efficiently merge multiple sorted lists using pointer-based traversal.
+
 ---
 
 This repository will grow as I continue to explore more data structures and their functionalities.
+
 
 
 

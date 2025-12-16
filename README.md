@@ -14,14 +14,14 @@ The goal of this repository is to demonstrate:
 
 ### Topics Covered
 - Stack (Array-based and Linked)
+- Queue (Array-based and Linked with Special Operations)
 - Binary Tree
 - Recursive Algorithms
 - Simple Linked List
-- Array Bounded Queue
 - ArrayList vs LinkedList Benchmark
 - Sorting Algorithms
 - File Reading and Writing
-- Other data structures as the coursework progresses.   
+- Other data structures as the coursework progresses.    
 
 ## Current Projects
 
@@ -90,9 +90,18 @@ The goal of this repository is to demonstrate:
   - Apply algorithmic problem-solving to find maximum elements through iterative comparison.
   - Manage custom exception handling for stack overflow and underflow conditions. 
 
+### 10. [Linked Special Queue](https://github.com/DariusDahl/data-structures-classwork-java/blob/main/linked-list/linked-special-queue/)
+- **Overview**: A linked list-based queue implementation that categorizes elements as "special" or "normal" based on value ranges.  Implements conditional queue splitting when special elements comprise at least half of the total queue size.
+- **Learning Goals**:
+  - Implement conditional element categorization within a queue structure.
+  - Manage multiple internal linked lists for different element types.
+  - Design and implement queue splitting algorithms for load distribution.
+  - Apply object-oriented principles to model real-world scenarios with `Person` objects.
+
 ---
 
 This repository will grow as I continue to explore more data structures and their functionalities.
+
 
 
 

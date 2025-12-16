@@ -7,10 +7,11 @@ This repository contains a collection of projects from my data structures course
 ### Purpose
 The goal of this repository is to demonstrate:  
 - Hands-on implementation of core data structures and algorithms.  
-- Object-Oriented Programming (OOP) principles in Java. 
-- Modular design using interfaces and classes.
-- Application of recursive and iterative approaches to solve computational problems. 
-- File I/O operations for practical data processing tasks.
+- Object-Oriented Programming (OOP) principles in Java.  
+- Modular design using interfaces and classes.  
+- Application of recursive and iterative approaches to solve computational problems.  
+- File I/O operations for practical data processing tasks. 
+- Collision resolution strategies in hash-based data structures.
 
 ### Topics Covered
 - Stack (Array-based and Linked)
@@ -18,6 +19,7 @@ The goal of this repository is to demonstrate:
 - Binary Tree and Binary Search Tree
 - Recursive Algorithms
 - Simple Linked List
+- Hash Table with Linear Probing
 - ArrayList vs LinkedList Benchmark
 - Sorting Algorithms
 - File Reading and Writing
@@ -106,9 +108,18 @@ The goal of this repository is to demonstrate:
   - Analyze tree structure through leaf/interior node identification.
   - Validate tree properties including balance and fullness criteria. 
 
+### 12. [Hash Table with Linear Probing](https://github.com/DariusDahl/data-structures-classwork-java/blob/main/hash-table-linear-probing/)
+- **Overview**: A hash table implementation using linear probing for collision resolution.   Demonstrates hash function design, collision handling, and the trade-offs of open addressing strategies.
+- **Learning Goals**: 
+  - Implement a hash table using arrays with modulo-based hash function.
+  - Apply linear probing to resolve hash collisions efficiently.
+  - Understand primary clustering and its impact on performance. 
+  - Handle edge cases including full table conditions and wraparound logic.
+
 ---
 
 This repository will grow as I continue to explore more data structures and their functionalities.
+
 
 
 

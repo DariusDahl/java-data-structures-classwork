@@ -15,13 +15,13 @@ The goal of this repository is to demonstrate:
 ### Topics Covered
 - Stack (Array-based and Linked)
 - Queue (Array-based and Linked with Special Operations)
-- Binary Tree
+- Binary Tree and Binary Search Tree
 - Recursive Algorithms
 - Simple Linked List
 - ArrayList vs LinkedList Benchmark
 - Sorting Algorithms
 - File Reading and Writing
-- Other data structures as the coursework progresses.    
+- Other data structures as the coursework progresses.     
 
 ## Current Projects
 
@@ -98,9 +98,18 @@ The goal of this repository is to demonstrate:
   - Design and implement queue splitting algorithms for load distribution.
   - Apply object-oriented principles to model real-world scenarios with `Person` objects.
 
+### 11. [Binary Search Tree](https://github.com/DariusDahl/data-structures-classwork-java/blob/main/binary-search-tree/)
+- **Overview**: A comprehensive Binary Search Tree implementation with standard operations (add, remove, search) and advanced analysis methods.  Includes tree traversals, node counting, successor finding, and structural validation (full/balanced tree checks).
+- **Learning Goals**: 
+  - Implement efficient BST operations maintaining the binary search property.
+  - Master recursive tree traversal algorithms (preorder, inorder, postorder).
+  - Analyze tree structure through leaf/interior node identification.
+  - Validate tree properties including balance and fullness criteria. 
+
 ---
 
 This repository will grow as I continue to explore more data structures and their functionalities.
+
 
 
 

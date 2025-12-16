@@ -13,6 +13,7 @@ The goal of this repository is to demonstrate:
 
 ### Topics Covered
 - Stack (Array-based)
+- Binary Tree
 - Other data structures as the coursework progresses.
 
 ## Current Projects
@@ -24,6 +25,14 @@ The goal of this repository is to demonstrate:
   - Implement fixed-capacity constraints in stacking with array manipulations.
   - Use validation methods (`isEmpty`, `isFull`) to handle edge cases.
 
+### 2. [Binary Tree](https://github.com/DariusDahl/java-data-structures-classwork/blob/main/binary-tree/)
+- **Overview**: A hierarchical binary tree structure implemented in Java. This project showcases recursive algorithms for traversals, summation, and search functionality.
+- **Learning Goals**:
+  - Explore traversal methods: Pre-Order, In-Order, Post-Order.
+  - Implement recursive algorithms for search and summation.
+  - Apply sorting techniques on ArrayList data to enhance understanding.
+
 ---
 
 This repository will grow as I continue to explore more data structures and their functionalities.
+

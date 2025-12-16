@@ -16,6 +16,7 @@ The goal of this repository is to demonstrate:
 - Binary Tree
 - Recursive Algorithms
 - Linked List
+- Array Bounded Queue
 - Other data structures as the coursework progresses.
 
 ## Current Projects
@@ -48,9 +49,17 @@ The goal of this repository is to demonstrate:
   - Understand pointer manipulation to link nodes.
   - Practice error handling for out-of-bound index access.
 
+### 5. [Array Bounded Queue](https://github.com/DariusDahl/java-data-structures-classwork/blob/main/array-bounded-queue/)
+- **Overview**: A fixed-capacity FIFO (First-In-First-Out) queue implemented using arrays. This project emphasizes exception handling, circular array manipulation, and queue management techniques.
+- **Learning Goals**:
+  - Efficiently handle data with queue operations (`enqueue`, `dequeue`) and validation checks (`isEmpty`, `isFull`).
+  - Implement exception handling for overflow and underflow conditions.
+  - Explore dynamic memory management with circular arrays.
+
 ---
 
 This repository will grow as I continue to explore more data structures and their functionalities.
+
 
 
 
